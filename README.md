@@ -9,7 +9,7 @@
 
 ## Software Apakah Ini?
 
-shb-nd-rct-todo adalah todo app yang dibuat dengan Node.js, React, Context, Bootstrap, dan Axios.
+shb-nd-rct-todo adalah todo app yang dibuat dengan Node.js, React, Context, Bootstrap, dan Axios. 
 
 ## Screenshot
 
